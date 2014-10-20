@@ -8,7 +8,7 @@ Syllabus
 一週兩次（週二、週五）
 
 - - -
-[課表](https://docs.google.com/spreadsheet/pub?key=0AltiWyU4jeiodG5yb3VmbE9WenVTXzV3S0Ixa0N3UEE&output=html)
+[課表](https://docs.google.com/spreadsheet/pub?key=0AltiWyU4jeiodFRJaU9VTUtJR3h0M3RMVHZDUGJfeUE&output=html)
 
 ---
 

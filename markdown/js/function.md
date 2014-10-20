@@ -218,7 +218,5 @@ LearnStreet 練習時間
     <p><small>給定底 `base`、高 `height`，回傳三角形面積。</small></p>
     <h4>8. Just Came to Say Hello</h4>
     <p><small>回傳 `"Hello, " + name`</small></p>
-    <h4>9. Global Variables</h4>
-    <p><small>請跳過此題。</small></p>
   </div>
 </div>
