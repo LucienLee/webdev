@@ -76,3 +76,11 @@ Specificty 越小越好
 ```CSS
   #header .banner nav ul li .title /* Avoid! */
 ```
+
+---
+
+延伸練習
+-------
+
+![CSS Dinner](/images/css/dinner.png)
+[CSS Dinner](http://flukeout.github.io/)
