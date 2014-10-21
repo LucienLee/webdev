@@ -10,6 +10,6 @@
 課程互動
 -------
 
-* [Facebook](http://www.facebook.com/groups/htm237)
+* [Facebook](https://www.facebook.com/groups/html246)
 
 * 左側「我有問題」
