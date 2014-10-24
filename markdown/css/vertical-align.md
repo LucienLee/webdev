@@ -43,7 +43,7 @@ Normal flow 的每一行的上下緣，由行內元素決定。
   </div>
 </div>
 
-<p class="fragment">`<td>` 以外，<br>沒有 CSS property 能讓任意高度元素垂直置中。</p>
+<p class="fragment">過去除了`<td>` 以外，<br>沒有 CSS property 能讓任意高度元素垂直置中。</p>
 <ul class="fragment leader">
   <li>
     <a href="http://css-tricks.com/vertically-center-multi-lined-text/">用 `display: table-cell` 垂直置中</a>
@@ -55,3 +55,13 @@ Normal flow 的每一行的上下緣，由行內元素決定。
     <a href="http://blog.yam.com/hanasan/article/35806444">中文總整理</a>
   </li>
 </ul>
+
+---
+
+教練我想垂直置中 Part 2
+-------------
+
+[[tamaketumu]]
+
+現在我們有CSS3 Transform，可以讓任意高度元素垂直置中！
+大部分瀏覽器都有[支援](http://caniuse.com/#feat=transforms2d) Transform 屬性，所以可以放心使用
