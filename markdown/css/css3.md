@@ -36,7 +36,6 @@ transition 漸變
 漸層
 ----
 
-<!-- TODO: code example -->
 語法猥瑣
 
 每個瀏覽器都不一樣
@@ -45,4 +44,4 @@ transition 漸變
 
 <p class="fragment">[Ultimate Gradient Editor](http://www.colorzilla.com/gradient-editor/) to the rescue!</p>
 
-[[mrorz-css-gradient]]
+[[nokog]]
