@@ -21,9 +21,9 @@
 LearnStreet 練習時間
 --------
 
-[LearnStreet](http://www.learnstreet.com/student/join/o4laIoVQ) 的「Control Structures」
+「Control Structures」的[練習連結](http://www.codecademy.com/courses/javascript-beginner-en-8j9pu/1/5#!/exercises/0)
 
-![Lean street If](images/js/ls-if.png)
+![If](images/js/code-if.png)
 
 約需 16 分鐘。
 
@@ -189,9 +189,9 @@ for(;;){
 LearnStreet 練習時間
 --------
 
-[LearnStreet](http://www.learnstreet.com/student/join/o4laIoVQ) 的「Loops」
+「Loops」的[練習時間](http://www.codecademy.com/courses/javascript-beginner-en-8j9pu/2/1)
 
-![Lean street If](images/js/ls-if.png)
+![Learn loop](images/js/code-loop.png)
 
 約需 16 分鐘。
 

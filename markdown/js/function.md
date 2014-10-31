@@ -184,12 +184,13 @@ Function 可以……
 
 ---
 
-LearnStreet 練習時間
+練習時間
 --------
 
-[LearnStreet](http://www.learnstreet.com/student/join/o4laIoVQ) 的「Function」
+「Function」的[練習連結](http://www.codecademy.com/courses/javascript-beginner-en-8j9pu/)
 
-![Lean street If](images/js/ls-function.png)
+![code academy practice](images/js/codeacademy.png)
+
 約需 18 分鐘。
 
 若程式跑不出來，請先把程式貼到 [JSHint](http://www.jshint.com) 檢查語法。
