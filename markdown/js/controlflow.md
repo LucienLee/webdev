@@ -193,7 +193,7 @@ LearnStreet 練習時間
 
 ![Learn loop](images/js/code-loop.png)
 
-約需 16 分鐘。
+約需 20 分鐘。
 
 若按 Run 沒有回應，請重新整理。
 
@@ -202,19 +202,21 @@ LearnStreet 練習時間
 <div class="row">
   <div class="span3">
     <h4>1. Add 'Em Up</h4>
-    <p><small>用 `while` 算從 `1` 加到 `n`。</small></p>
+    <p><small>用 `for` 算從 `1` 加到 `n`。</small></p>
     <h4>2. Sum Odd Numbers</h4>
     <p><small>同 1，但只加奇數。</small></p>
-    <h4>3. Auto Correct, Kind Of</h4>
-    <p><small>計算 `str1`、`str2` 有幾個字不一樣。</small></p>
+    <h4>3. Count how many "a"</h4>
+    <p><small>計算一串字裡頭有多少 `a`。</small></p>
+    <h4>4. How many percent of one basic group in a DNA</h4>
+    <p><small>計算 `A`、`T`、`C`、`G` 在有一串DNA佔有多少比率。</small></p>
   </div>
   <div class="span3">
-    <h4>4. Comparing String</h4>
-    <p><small>用 `while` 逐字比較兩個字串是否相等</small></p>
-    <h4>5. Count to 100, Again</h4>
-    <p><small>用 `for` 算從 `1` 加到 `n`。</small></p>
-    <h4>6. Word Count</h4>
-    <p><small>計算句子裡的單字數量（用空白的數量 + 1 來算）</small></p>
+    <h4>5. How two are DNA are similar</h4>
+    <p><small>用 `for` 比較兩個一樣長的 DNA 有多少相似度</small></p>
+    <h4>6. Palindrome</h4>
+    <p><small>用 `for` 檢查一個字串是不是迴文。</small></p>
+    <h4>7. Check if a postation account </h4>
+    <p><small>計算一個郵局帳號是不是符合規則。</small></p>
   </div>
 </div>
 
