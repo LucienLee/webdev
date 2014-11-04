@@ -96,11 +96,11 @@ LearnStreet 練習時間
     <p><small>把整個陣列排序反過來</small></p>
   </div>
   <div class="span3">
-    <h4>6. Delete Free Emails</h4>
+    <h4>4. Delete Free Emails</h4>
     <p><small>將 `eMails` 中字串含有 `"free"` 的字串整個替代為 `"spam"`</small></p>
-    <h4>7. Sum up different type data in array</h4>
+    <h4>5. Sum up different type data in array</h4>
     <p><small>運用 `if` 判斷array中不同類型的值的總和。</small></p>
-    <h4>7. Sum up different type data in Object</h4>
+    <h4>6. Sum up different type data in Object</h4>
     <p><small>實作一個候選人得票加總器，輸出一個 Object 存放大家的票數。</small></p>
   </div>
 </div>
