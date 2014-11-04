@@ -94,8 +94,6 @@ LearnStreet 練習時間
     <p><small>產生 `[1,2,…,n]`</small></p>
     <h4>3. Reverse Swapping</h4>
     <p><small>把整個陣列排序反過來</small></p>
-    <h4>3. First and Last</h4>
-    <p><small>檢查第一個和最後一個是否相等</small></p>
   </div>
   <div class="span3">
     <h4>6. Delete Free Emails</h4>
