@@ -101,7 +101,7 @@ function 內只會看/改到區域變數。
 
 Function input 也算是區域變數。
 
-[延伸閱讀](http://blog.taian.su/201210/explaining-javascript-scope-and-closures-by-robert-nyman/)
+[延伸閱讀](http://blog.taian.su/2012-10-17-explaining-javascript-scope-and-closures-by-robert-nyman/)
 
 ---
 
