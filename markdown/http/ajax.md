@@ -82,20 +82,6 @@ Google Geocoding API
 
 ---
 
-Facebook 垃圾社團資訊
-------------
-
-廣告社團列表來源：[TonyQ 的《Facebook 廣告社團檢查器》](http://antispam.tonyq.org/groups)
-
-[[mrorz-http-youbike]]
-
-<p class="fragment">
-（′,_ゝ`) 
-</p>
-
-
----
-
 CORS
 -------------
 
