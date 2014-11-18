@@ -56,13 +56,14 @@ Graph API / FQL
 [FQL](https://developers.facebook.com/docs/reference/fql/)
 
 將 Graph API 裡的「物件」當成資料庫的「資料表」來操作，可以拿到比較多資源、下比較複雜的指令。
+V2.0 之後的版本不再支援。
 
 ---
 
 用 ajax 存取 Graph API
 ------------
 
-[[mrorz-ajax-demo2]]
+[[xuqaliwepa]]
 
 ---
 
